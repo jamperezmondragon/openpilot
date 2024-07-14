@@ -416,7 +416,7 @@
     </message>
     <message>
         <source>Waiting for controls to start</source>
-        <translation>En attente du démarrage des commandes</translation>
+        <translation>En attente du démarrage des contrôles</translation>
     </message>
     <message>
         <source>TAKE CONTROL IMMEDIATELY</source>
