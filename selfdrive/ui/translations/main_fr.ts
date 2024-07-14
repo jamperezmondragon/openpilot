@@ -264,11 +264,11 @@
     </message>
     <message>
         <source>Pair Device</source>
-        <translation>Associez l&apos;appareil</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>PAIR</source>
-        <translation>Assoiez</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -412,23 +412,23 @@
     <name>OnroadAlerts</name>
     <message>
         <source>openpilot Unavailable</source>
-        <translation>openpilot Indisponible</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Waiting for controls to start</source>
-        <translation>En attente du démarrage des contrôles</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>TAKE CONTROL IMMEDIATELY</source>
-        <translation>PRENEZ LE CONTRÔLE IMMÉDIATEMENT</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Controls Unresponsive</source>
-        <translation>Les contrôles ne réagissent pas</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Reboot Device</source>
-        <translation>redémarrer l&apos;appareil</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -489,7 +489,7 @@
     </message>
     <message>
         <source>Remote snapshots</source>
-        <translation>Cliché	télécommandé</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -540,7 +540,7 @@
     </message>
     <message>
         <source>now</source>
-        <translation>maintenant</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -581,7 +581,7 @@ Cela peut prendre jusqu&apos;à une minute.</translation>
     </message>
     <message>
         <source>System reset triggered. Press confirm to erase all content and settings. Press cancel to resume boot.</source>
-        <translation>Réinitialisation du système déclenchée. Appuyez sur confirmer pour effacer tout le contenu et les paramètres. Appuyez sur annuler pour reprendre le démarrage.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -691,15 +691,15 @@ Cela peut prendre jusqu&apos;à une minute.</translation>
     </message>
     <message>
         <source>Choose Software to Install</source>
-        <translation>Choisissez le logiciel à installer</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>openpilot</source>
-        <translation>openpilot</translation>
+        <translation type="unfinished">openpilot</translation>
     </message>
     <message>
         <source>Custom Software</source>
-        <translation>Logiciel personnalisé</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1048,7 +1048,7 @@ Cela peut prendre jusqu&apos;à une minute.</translation>
     </message>
     <message>
         <source>Standard is recommended. In aggressive mode, openpilot will follow lead cars closer and be more aggressive with the gas and brake. In relaxed mode openpilot will stay further away from lead cars. On supported cars, you can cycle through these personalities with your steering wheel distance button.</source>
-        <translation>Standard est recommandée. En mode Agressif, openpilot suivra les voitures de tête de plus près et sera plus agressif avec l&apos;accélérateur et les freins. En mode Détendu, openpilot restera plus éloigné des voitures de tête. Sur les voitures prises en charge, vous pouvez parcourir ces personnalités avec le bouton de distance au volant.</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>The driving visualization will transition to the road-facing wide-angle camera at low speeds to better show some turns. The Experimental mode logo will also be shown in the top right corner.</source>
@@ -1056,11 +1056,11 @@ Cela peut prendre jusqu&apos;à une minute.</translation>
     </message>
     <message>
         <source>Always-On Driver Monitoring</source>
-        <translation>Surveillance permanante du conducteur</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Enable driver monitoring even when openpilot is not engaged.</source>
-        <translation>Activer la surveillance du conducteur même lorsque openpilot n&apos;est pas engagé.</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
